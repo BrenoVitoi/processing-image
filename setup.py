@@ -9,7 +9,7 @@ with open("requirements.txt") as f:
 setup(
     name="processing-image",
     version="0.0.1",
-    author="Breno",
+    author="Souza Breno",
     author_email="breno.vitoi@gmail.com",
     description="My short description",
     long_description=page_description,
